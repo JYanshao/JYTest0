@@ -1,5 +1,5 @@
 PODS:
-  - JYTest0 (0.0.1)
+  - JYTest0 (0.0.2)
 
 DEPENDENCIES:
   - JYTest0 (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  JYTest0: d07d28e5420d15019abae274963aecd7deabd8c8
+  JYTest0: df6e6d7a54288364962594301569febbaba86924
 
 PODFILE CHECKSUM: f9f586687640ffa41acb51c01122598496dc3984
 
