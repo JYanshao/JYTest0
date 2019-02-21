@@ -1,0 +1,6 @@
+framework module JYTest0 {
+  umbrella header "JYTest0-umbrella.h"
+
+  export *
+  module * { export * }
+}

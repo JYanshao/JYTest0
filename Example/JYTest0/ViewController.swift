@@ -7,12 +7,18 @@
 //
 
 import UIKit
+import JYTest0
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        /// 示例
+        let textField = JYTextField(frame: CGRect(x: 30, y: 150, width: 300, height: 30))
+        textField.borderStyle = UITextBorderStyle.roundedRect
+        view.addSubview(textField)
     }
 
     override func didReceiveMemoryWarning() {
