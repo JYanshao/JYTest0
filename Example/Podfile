@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JYTest0_Example' do
+  pod 'JYTest0', :path => '../'
+
+  target 'JYTest0_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
